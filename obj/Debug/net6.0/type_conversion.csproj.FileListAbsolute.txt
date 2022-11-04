@@ -1,0 +1,15 @@
+C:\Users\muham\Documents\C#Projects\type_conversion\bin\Debug\net6.0\type_conversion.exe
+C:\Users\muham\Documents\C#Projects\type_conversion\bin\Debug\net6.0\type_conversion.deps.json
+C:\Users\muham\Documents\C#Projects\type_conversion\bin\Debug\net6.0\type_conversion.runtimeconfig.json
+C:\Users\muham\Documents\C#Projects\type_conversion\bin\Debug\net6.0\type_conversion.dll
+C:\Users\muham\Documents\C#Projects\type_conversion\bin\Debug\net6.0\type_conversion.pdb
+C:\Users\muham\Documents\C#Projects\type_conversion\obj\Debug\net6.0\type_conversion.csproj.AssemblyReference.cache
+C:\Users\muham\Documents\C#Projects\type_conversion\obj\Debug\net6.0\type_conversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham\Documents\C#Projects\type_conversion\obj\Debug\net6.0\type_conversion.AssemblyInfoInputs.cache
+C:\Users\muham\Documents\C#Projects\type_conversion\obj\Debug\net6.0\type_conversion.AssemblyInfo.cs
+C:\Users\muham\Documents\C#Projects\type_conversion\obj\Debug\net6.0\type_conversion.csproj.CoreCompileInputs.cache
+C:\Users\muham\Documents\C#Projects\type_conversion\obj\Debug\net6.0\type_conversion.dll
+C:\Users\muham\Documents\C#Projects\type_conversion\obj\Debug\net6.0\refint\type_conversion.dll
+C:\Users\muham\Documents\C#Projects\type_conversion\obj\Debug\net6.0\type_conversion.pdb
+C:\Users\muham\Documents\C#Projects\type_conversion\obj\Debug\net6.0\type_conversion.genruntimeconfig.cache
+C:\Users\muham\Documents\C#Projects\type_conversion\obj\Debug\net6.0\ref\type_conversion.dll
